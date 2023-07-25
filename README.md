@@ -8,11 +8,11 @@ Welcome to my GitHub profile! I'm passionate about programming in Flutter and ex
 
 - **Java:** While my primary focus is on Flutter, I also have a solid understanding of Java. This knowledge allows me to leverage Java's capabilities in developing robust and scalable applications.
 
-- **Web Development:** Currently, I am sharpening my skills in web development. I'm actively learning HTML, CSS, and JavaScript to create captivating and responsive web interfaces. I'm excited about the possibilities and looking forward to honing my web development abilities.
+- **Web Development:** Currently, I am sharpening my skills in web development. I'm actively learning HTML, CSS, JavaScript, and PHP to create captivating and responsive web interfaces. Additionally, I'm also exploring technologies like Bootstrap to further enhance my web development capabilities.
 
 ## 🌱 Learning Journey
 
-I believe in continuous learning and personal growth. Currently, I am focused on expanding my knowledge in:
+I believe in continuous learning and personal growth. Currently, I am focused on expanding my knowledge in web development with a specific focus on:
 
 - **HTML:** I'm learning the fundamentals of HTML to structure web content effectively.
 
@@ -20,12 +20,16 @@ I believe in continuous learning and personal growth. Currently, I am focused on
 
 - **JavaScript:** I'm delving into JavaScript to add interactivity and dynamic functionality to web pages.
 
+- **PHP:** I'm learning PHP to build server-side applications and dynamic web content.
+
+- **Bootstrap:** I'm exploring Bootstrap to streamline the process of making responsive and mobile-first websites.
+
 ## 🤝 Let's Connect
 
 I'm always eager to collaborate, learn, and share knowledge. If you have any interesting Flutter projects, web development opportunities, or just want to connect and discuss programming, feel free to reach out! Let's connect on [LinkedIn](https://www.linkedin.com/in/divyanshu-naugai) or via [email](mailto:adwait7830@gmail.com).
 
 ## 📚 Resources
 
-On my GitHub, you'll find repositories where I share code samples, projects, and resources related to Flutter, Java, and web development. Feel free to explore and utilize them for your own learning journey.
+On my GitHub, you'll find repositories where I share code samples, projects, and resources related to Flutter, Java, and web development. Feel free to explore and utilize them for your learning journey.
 
 Thank you for visiting my profile! Let's code, learn, and create amazing things together! 💻🚀
