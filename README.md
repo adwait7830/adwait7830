@@ -1,5 +1,3 @@
-# Readme.md
-
 Hello there! 👋 My name is **Divyanshu Naugai**, and I'm an Electronics & Communication Engineer with a passion for web development. I'm currently diving into the world of Web Development, specifically focusing on **Next.js**. I also have some knowledge about **React** and have plans to expand my skills by learning **Laravel** in the near future.
 
 ## About Me
