@@ -13,7 +13,7 @@ I'm enthusiastic about learning and growing in the field of web development. Cur
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript
+- **Programming Languages:** HTML, CSS, JavaScript/TypeScript
 - **Frameworks:** React, Next.js (in progress)
 
 ## Connect with Me
