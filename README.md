@@ -1,22 +1,66 @@
-Hello there! 👋 My name is **Divyanshu Naugai**, and I'm an Electronics & Communication Engineer with a passion for web development. I'm currently diving into the world of Web Development.
-## About Me
+# Hello World! I'm Divyanshu Naugai 👋
 
-- **Name:** Divyanshu Naugai
-- **Background:** Electronics & Communication Engineer
-- **Current Focus:** Learning Web Development
-- **Interests:** Web Development, Reactjs, Nextjs, Astrojs,
+## 💫 About Me
+I'm an Electronics & Communication Engineer with a deep passion for bridging the hardware-software divide. Currently exploring the fascinating world of web development while leveraging my electronics background.
 
-## My Learning Journey
+```javascript
+const divyanshu = {
+    pronouns: "he/him",
+    background: "Electronics & Communication Engineering",
+    currentFocus: "Full Stack Web Development",
+    location: "India",
+    passions: ["Electronics Design", "Web Development", "Poetry"]
+};
+```
 
-I'm enthusiastic about learning and growing in the field of web development. Currently, I'm deeply engaged in mastering **Js Franeworks**, which I believe will enhance my abilities to create dynamic and interactive web applications.
+## 🚀 Technical Universe
 
-## Skills
+### 🔧 Electronics Expertise
+- Analog Electronics Design
+- Digital Electronics
+- Circuit Analysis & Simulation
+- VLSI Design Fundamentals
 
-- **Programming Languages:** HTML, CSS, JavaScript/TypeScript
-- **Frameworks:** Reactjs*, Nextjs, Astrojs
+### 💻 Web Development Journey
+- **Frontend:** HTML, CSS, JavaScript/TypeScript
+- **Frameworks:** React.js, Next.js, Astro.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Backend:** PHP, Laravel
+- **Tools:** Git, VS Code, Postman
 
-## Connect with Me
+### 🛠️ Engineering Tools
+- Xilinx ISE/Vivado
+- MATLAB
+- Ansys
+- Cadence (Learning)
 
-- **LinkedIn:** [Divyanshu Nagai](https://www.linkedin.com/in/divyanshu-naugai/)
+## 🌱 Currently Growing
+- Deepening my understanding of React.js and Next.js
+- Exploring advanced JavaScript concepts
+- Learning backend development
+- Expanding my electronics knowledge with Cadence
 
-Feel free to connect with me if you share similar interests or if you'd like to collaborate on any projects. Let's learn and create amazing things together! 😊
+## 🎯 Future Goals
+- Master full-stack web development
+- Create projects combining electronics and web technologies
+- Contribute to open-source projects
+- Share knowledge through technical writing
+
+
+## 🤝 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/divyanshu-naugai/)
+- [Instagram](https://www.instagram.com/divyanshu.naugai)
+- [Portfolio](https://adwait7830.github.io/portfolio/)
+- 📧 Email: adwait7830@gmail.com
+
+## 🎭 Beyond Code
+When I'm not coding or working with circuits, you'll find me:
+- Writing poetry 📝
+- Exploring philosophy 🤔
+- Learning new technologies 💡
+
+---
+
+<div align="center">
+  <i>Let's build something amazing together! Feel free to reach out for collaborations or just a friendly chat.</i>
+</div>
