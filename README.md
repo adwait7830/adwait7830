@@ -5,7 +5,6 @@ I'm an Electronics & Communication Engineer with a deep passion for bridging the
 
 ```javascript
 const divyanshu = {
-    pronouns: "he/him",
     background: "Electronics & Communication Engineering",
     currentFocus: "Full Stack Web Development",
     location: "India",
